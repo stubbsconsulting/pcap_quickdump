@@ -1,0 +1,13 @@
+{
+  "zip": "pcapng-quickdump-v0.3.0.zip",
+  "sha256": "9ae782556c2675e5312f8eb556e8c82ccb52d6f959e6e891ae9cae10e5b53bc6",
+  "files": [
+    "pcapng-quickdump/.gitignore",
+    "pcapng-quickdump/CHANGELOG.md",
+    "pcapng-quickdump/CONTRIBUTING.md",
+    "pcapng-quickdump/LICENSE",
+    "pcapng-quickdump/README.md",
+    "pcapng-quickdump/pcapng_quickdump.py",
+    "pcapng-quickdump/requirements.txt"
+  ]
+}
